@@ -1,0 +1,8 @@
+prefix=/home/marco/catkin_ws/src/athomesoftware/talos_machinelearning/devel
+
+Name: talos_machinelearning
+Description: Description of talos_machinelearning
+Version: 0.0.0
+Cflags: -I/home/marco/catkin_ws/src/athomesoftware/talos_machinelearning/include/talos_machinelearning
+Libs: -L/home/marco/catkin_ws/src/athomesoftware/talos_machinelearning/devel/lib 
+Requires: sensor_msgs geometry_msgs roscpp nodelet image_transport opencv2 message_runtime

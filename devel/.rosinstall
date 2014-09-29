@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/marco/catkin_ws/src/athomesoftware/talos_machinelearning/devel/setup.sh
